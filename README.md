@@ -8,7 +8,7 @@
 * I an using the SVM to train the model.
 
 ### To run the code:
-1. Clone the github repository in your computer. git clone 
+1. Clone the github repository in your computer. git clone https://github.com/prashantsahu99/E-mail-Spam-Detection-Project.git
 
 2. Download the two folder train- mails  and test-mails. 
 
